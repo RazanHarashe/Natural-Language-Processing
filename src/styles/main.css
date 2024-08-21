@@ -1,0 +1,9 @@
+@import './header.css';
+@import './footer.css';
+@import './form.css';
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
